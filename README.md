@@ -7,7 +7,7 @@ Snake Game challenge project (1 hour)
 
 ## GamePlay
 
-![GamePlay](/Images/pingpong.png?raw=true "GamePlay")
+![GamePlay](/Images/snake.png?raw=true "GamePlay")
 
 
 ## Installation
