@@ -13,7 +13,7 @@ Snake Game challenge project (1 hour)
 
 ## GamePlay
 
-![GamePlay](https://i.imgur.com/ "GamePlay")
+![GamePlay](https://i.imgur.com/cIIEIz3.png "GamePlay")
 
 
 ## Installation
