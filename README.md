@@ -4,7 +4,7 @@ Snake Game challenge project (1 hour)
 
 ## Demo
 
-[Demo version 0.2.0](https://madrigal.pro/demo/tank2/)
+[Demo version 0.1.0](https://madrigal.pro/demo/snake/)
 
 ## Prerequisites
 
